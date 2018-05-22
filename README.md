@@ -19,5 +19,6 @@ Below steps to show you how to create a GAE project via Pydev plugin
 1. Eclipse menu, File -> New -> Other… , PyDev folder, choose “PyDev Google App Engine Project“. 
 2. Type project name, if the interpreter is not configure yet (in step 2), you can do it now. And select this option – “Create  ‘src’ folder and add it to PYTHONPATH“.
 3. 
+![alt text](https://drive.google.com/file/d/1_-FAyoI5NJpiLp5hQ_HDfZ331xJfYo_0/view)
 
 
