@@ -35,7 +35,9 @@ Below steps to show you how to create a GAE project via Pydev plugin
 
 ![alt text](https://drive.google.com/uc?id=1H04PqeoRdRpopnCzP-_lDEeGKdFOjL0P)
 
-4. Name your application id in GAE, type anything, you can change it later. And choose “Hello World GAE” template to generate the sample files. click Finish
+4. Name your application id in GAE, type anything, you can change it later. And choose “Hello Webapp World” template to generate the sample files. click Finish
 
-![alt text](https://drive.google.com/uc?id=19AJfSPQ4HWzJnEQ3SOkUJIq2duTpG7JP)
+![alt text](https://drive.google.com/uc?id=1htGIkk6dPdzkZCX_Kf66ZRsr8UopXtYC)
+
+5. 
 
