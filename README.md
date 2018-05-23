@@ -39,5 +39,33 @@ Below steps to show you how to create a GAE project via Pydev plugin
 
 ![alt text](https://drive.google.com/uc?id=1htGIkk6dPdzkZCX_Kf66ZRsr8UopXtYC)
 
-5. 
+5. Done, 2 files are generated, app.yaml(configuration file) and helloworld.py(python file)
+
+![alt text](https://drive.google.com/uc?id=1xmzt3Iu0VPHaByufuNCwdB6hBegJ3Yp6)
+
+6. To run it locally, right click on the helloworld.py, choose “Run As” –> “Run Configuration”, create a new “PyDev Google App Run“.
+In Main tab -> Main module, manually type the directory path of “dev_appserver.py“. “Browse” button is not able to help you, type manually
+
+![alt text](https://drive.google.com/uc?id=1FVJ2ZW0h0rZ2KDZ-Lp2jM_x9M5Vk2W40)
+
+7. In Arguments tab -> Program arguments, put “${project_loc}/src“.
+
+8. Click on Apply.
+
+9. Run it. By default, it will deploy to http://localhost:8080.
+
+![alt text](https://drive.google.com/uc?id=1nh5syHJbxhY5ogMVfftjFELLrOxNA_7T)
+
+10. Done. Copy url and paste into the browser.
+
+![alt text](https://drive.google.com/uc?id=13sFS-IWknUORBjY8dqOiIW668QQsO9EM)
+
+
+
+
+
+
+
+
+
 
