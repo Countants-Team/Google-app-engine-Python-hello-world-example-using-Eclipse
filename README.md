@@ -88,7 +88,9 @@ handlers:
 
 ![alt text](https://drive.google.com/uc?id=1VtwN-8K3fQtCL6LmgPmfS_ux4WzG2LXR)
 
+5. During deployment process you need to have your GAE email and password for authentication. it'll redirect automatic for authentication.
 
+6. Run your app with URL - https://<your app id>.appspot.com
 
 
 
