@@ -90,7 +90,7 @@ handlers:
 
 5. During deployment process you need to have your GAE email and password for authentication. it'll redirect automatic for authentication.
 
-6. Run your app with URL - https://<your app id>.appspot.com
+6. Run your app with URL - https://yourappid.appspot.com
 
 
 
