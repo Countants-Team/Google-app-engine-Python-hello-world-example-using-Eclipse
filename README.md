@@ -61,8 +61,32 @@ In Main tab -> Main module, manually type the directory path of “dev_appserver
 ![alt text](https://drive.google.com/uc?id=13sFS-IWknUORBjY8dqOiIW668QQsO9EM)
 
 
+#### Deploy to Google App Engine
 
+1. Register an account on [Google App Engine](https://appengine.google.com/) and create application ID.
+2. Open your “app.yaml” file. Replace your application field with your application ID.
 
+```
+application: sample-app
+version: 1
+runtime: python27
+# threadsafe is required but can be either true or 
+# false. For some package, it should be true e.g. Flask
+threadsafe: true
+api_version: 1
+
+handlers:
+- url: /.*
+  script: helloworld.app
+  ```
+
+3. Create another new “PyDev Google App Run”, In Main tab -> Main module, manually type the directory path of “appcfg.py“.
+
+![alt text](https://drive.google.com/uc?id=1V2gOiC0fU5gJ7UPpm5bn5XerKYBmpBfn)
+
+4. In Arguments tab -> Program arguments, put “update ${project_loc}/src“.
+
+![alt text](https://drive.google.com/uc?id=1VtwN-8K3fQtCL6LmgPmfS_ux4WzG2LXR)
 
 
 
