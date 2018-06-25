@@ -1,5 +1,5 @@
 # Google-app-engine-Python-hello-world-example-using-Eclipse
-Step by step process for setup google app engine in eclpise, Run it locally and deploy it to Google App Engine account.
+Step by step process for setup google app engine in eclipse, Run it locally and deploy it to Google App Engine account.
 
 #### Tools required
 Eclipse with pydev
